@@ -3,7 +3,7 @@
 ## I. Overview of Project
 
 ### Background
-As a data visualization specialist for the Disaster Reporting Network working with Basil and Sadhana, the task was to build insightful data visualizations with interactive features on earthquakes from around the world using the latest earthquake GeoJSON data from the US Geological Survey website. The data was traversed and retrieved using Javascript and D3 leaflet libraries and plotted on a Mapbox map through an API request.
+Roza is a biological researcher in a microbiology laboratory. She is interested in bacteria that can synthesize proteins that taste like beef and she believes this is found inside the human belly button. She wants to build a dashboard with data of bactteria from bellybuttons sampled all across the country.
 
 ### Objective
-Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
+She has a completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. Specifically, her volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
